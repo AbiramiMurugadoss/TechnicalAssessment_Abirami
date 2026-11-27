@@ -1,0 +1,6 @@
+@PRATATechnicalAssessment_HostAddress = http://localhost:5177
+
+GET {{PRATATechnicalAssessment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
